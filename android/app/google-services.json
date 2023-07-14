@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771338605511",
+    "project_id": "ui-firebase-4a087",
+    "storage_bucket": "ui-firebase-4a087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771338605511:android:1217f6bea25c1642df3fe2",
+        "android_client_info": {
+          "package_name": "com.example.bhemo_ui_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771338605511-6l6r5kmgu6c1q4ol5f4lpth2riatu44s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdAsBhaAIwK-cyEdEkR8hh-WQDGoHF-6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771338605511-6l6r5kmgu6c1q4ol5f4lpth2riatu44s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
